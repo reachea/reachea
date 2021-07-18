@@ -1,6 +1,6 @@
 ### Hi there, I'm [Reachea](reacheasambath.com) 👋
 
-## I'm a Developer, and Freelancer!!
+## I'm a Student, Developer and Freelancer!!
 
 - 👀 I’m interested in web development, blockchain and machine learning
 - 🌱 I’m currently learning everything 🤣
