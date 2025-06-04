@@ -2,8 +2,7 @@
 
 ---
 
-## About me
-
+### About me
 - 👀 I’m interested in web development, blockchain and machine learning
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
@@ -11,8 +10,5 @@
 
 ---
 
-## Stats
-
-### Most Used Languages
-
+### Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reachea&layout=compact&langs_count=5&theme=default)
